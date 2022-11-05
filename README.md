@@ -1,2 +1,2 @@
 # wxDemo
-WXDEMO123
+WXDEMOtest 
